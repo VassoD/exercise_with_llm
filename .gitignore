@@ -1,1 +1,5 @@
 deprecated.py
+.DS_Store
+typescript_with_claude/typescriptex/*.js
+typescript_with_claude/typescriptex/*.ts
+!typescript_with_claude/typescriptex/example.ts
